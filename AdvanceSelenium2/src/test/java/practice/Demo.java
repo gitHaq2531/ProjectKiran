@@ -5,6 +5,6 @@ import org.testng.annotations.Test;
 public class Demo {
 	@Test
 	public void testCase1() {
-		System.out.println("TestCase1");
+		System.out.println("changed");
 	}
 }
