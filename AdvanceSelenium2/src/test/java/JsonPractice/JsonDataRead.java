@@ -18,6 +18,6 @@ public void getDataFromJson() throws FileNotFoundException, IOException, ParseEx
 	Object object = p.parse(new FileReader("C:\\Users\\afzau\\OneDrive\\Desktop\\Important\\jsonData.json"));
 	JSONObject map=(JSONObject)object;
 	System.out.println(map.get("browser"));
-	System.out.println("TL update");
+	System.out.println("TL update 2");
 }
 }
