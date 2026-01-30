@@ -5,5 +5,6 @@ public class Demo {
 	public void newMethod() {
 		System.out.println("New Method");
 		System.out.println("TL updates");
+		System.out.println("tl update2");
 	}
 }
