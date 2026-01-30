@@ -9,5 +9,6 @@ public class Demo {
 		System.out.println("TL updates");
 		System.out.println("tl update2");
 		System.out.println("new");
+		System.out.println("new one");
 	}
 }
