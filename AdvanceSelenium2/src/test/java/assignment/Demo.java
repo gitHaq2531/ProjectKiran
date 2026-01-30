@@ -11,5 +11,6 @@ public class Demo {
 		System.out.println("task complete");
 		System.out.println("new");
 		System.out.println("What should i update");
+		System.out.println("new one2");
 	}
 }
