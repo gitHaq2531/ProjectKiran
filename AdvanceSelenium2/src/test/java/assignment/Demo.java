@@ -13,7 +13,5 @@ public class Demo {
 		System.out.println("What should i update");
 		System.out.println("new one2");
 		System.out.println("ek line add kro");
-		System.out.println("new3");
-		System.out.println("git conflict");
 	}
 }
