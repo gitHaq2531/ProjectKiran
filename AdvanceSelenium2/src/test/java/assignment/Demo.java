@@ -15,5 +15,6 @@ public class Demo {
 		System.out.println("ek line add kro");
 		System.out.println("new3");
 		System.out.println("new4");
+		System.out.println("new32");
 	}
 }
