@@ -11,5 +11,6 @@ public class Demo {
 		System.out.println("task complete");
 		System.out.println("new");
 		System.out.println("new one2");
+		System.out.println("new3");
 	}
 }
