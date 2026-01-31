@@ -5,5 +5,6 @@ public class Demo {
 	public void changed() {
 		System.out.println("New Method");
 		System.out.println("31Jan");
+		System.out.println("one line added");
 	}
 }
