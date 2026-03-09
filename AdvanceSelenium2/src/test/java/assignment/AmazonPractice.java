@@ -13,6 +13,7 @@ import org.testng.annotations.Test;
 
 public class AmazonPractice 
 {
+	@Test
 public void amazonTest()
 {
 	
@@ -20,7 +21,7 @@ public void amazonTest()
 	driver.manage().window().maximize();
 	driver.get("https://www.flipkart.com");
 	JavascriptExecutor js = (JavascriptExecutor) driver;
-    js.executeScript("prompt('aise kya dekh rhe ho Akshay??  shopping karna hai kya');");
+    js.executeScript("prompt('shopping karna hai kya');");
 
 }
 
