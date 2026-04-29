@@ -10,6 +10,8 @@ public class FileUtility {
 			pObj.load(fis);
 			String data=pObj.getProperty(key);
 			System.out.println("TL update");
+			System.out.println("TL update2");
+
 			return data;
 
 }
