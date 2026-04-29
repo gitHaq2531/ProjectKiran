@@ -13,6 +13,7 @@ public String getDateFromPropertiesFile(String key) throws IOException {
 		Properties pobj = new Properties();
 		pobj.load(fis);
 		String data = pobj.getProperty(key);
+		System.out.println("TL update");
 		return data;
 	}
 

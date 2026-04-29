@@ -11,6 +11,7 @@ public class fileUtility {
 		Properties pObj = new Properties();
 		pObj.load(fis);
 		String data = pObj.getProperty(Password);
+		System.out.println("TL update");
 		return data;
 		
 	}

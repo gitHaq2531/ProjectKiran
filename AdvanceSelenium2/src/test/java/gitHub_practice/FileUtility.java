@@ -9,7 +9,7 @@ public class FileUtility {
 			Properties pObj=new Properties();
 			pObj.load(fis);
 			String data=pObj.getProperty(key);
-			
+			System.out.println("TL update");
 			return data;
 
 }
