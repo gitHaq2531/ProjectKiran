@@ -11,6 +11,7 @@ public class FileUtility {
 			String data=pObj.getProperty(key);
 			System.out.println("TL update");
 			System.out.println("TL update2");
+			System.out.println("thursday update");
 
 			return data;
 
